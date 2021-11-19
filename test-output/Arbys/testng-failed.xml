@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Arbys]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.arbysstg.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="Testcases(failed)">
+    <classes>
+      <class name="com.arbysstg.Testcases.TC_Signin_002">
+        <methods>
+          <include name="signin"/>
+          <include name="setup"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.arbysstg.Testcases.TC_Signin_002 -->
+    </classes>
+  </test> <!-- Testcases(failed) -->
+</suite> <!-- Failed suite [Arbys] -->

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Arbys">
+
+<listeners>
+ <listener class-name="com.arbysstg.utilities.Reporting"/>
+ </listeners>
+
+  <test name="Testcases">
+      <classes>
+      <!-- <class name="com.arbysstg.Testcases.TC_sigup_001"/>-->
+      <class name="com.arbysstg.Testcases.TC_Signin_002"/>
+      </classes>
+      </test>
+</suite> <!-- Suite -->
