@@ -8,8 +8,9 @@
 
   <test name="Testcases">
       <classes>
-      <!-- <class name="com.arbysstg.Testcases.TC_sigup_001"/>-->
+      <class name="com.arbysstg.Testcases.TC_sigup_001"/>
       <class name="com.arbysstg.Testcases.TC_Signin_002"/>
+      <class name="com.arbysstg.Testcases.TC_placingOrder_003"/>
       </classes>
       </test>
 </suite> <!-- Suite -->

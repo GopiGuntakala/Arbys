@@ -18,6 +18,16 @@ public class HomepageObjects {
 	
 	@FindBy(xpath = "//a[@href=\"/account/\"]") WebElement profilelink;
 	
+	@FindBy(xpath="//a[text()='start an order']") WebElement startAnOrderbtn;
+	
+	@FindBy(xpath="//button[@aria-label=\"Close\"]") WebElement cookie;
+	
+	
+	
+	public void closeCookies() {
+		
+		cookie.click();
+	}
 	public void ClickSignin() {
 		signin.click();
 	}
@@ -25,5 +35,12 @@ public class HomepageObjects {
 	public void profileClick() {
 		profilelink.click();
 	}
+	
+	public void StartAnorderBtn() {
+		startAnOrderbtn.click();
+	}
+	
+	
+	
 	
 }

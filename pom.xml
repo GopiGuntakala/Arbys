@@ -15,7 +15,7 @@
   </properties>
   
   
-  <!-- Plug-ins required for executing Tests  -->
+  <!-- Plug-ins required for executing Tests  -->  
 	<build>
 		<plugins>
 			<plugin>
@@ -110,6 +110,13 @@
     <version>1.2.17</version>
 	</dependency>
 	
+	<!-- webdriver manager -->
+	
+	<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.0.3</version>
+</dependency>
     
     
   </dependencies>

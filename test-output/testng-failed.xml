@@ -6,13 +6,20 @@
   </listeners>
   <test thread-count="5" name="Testcases(failed)">
     <classes>
-      <class name="com.arbysstg.Testcases.TC_Signin_002">
+      <class name="com.arbysstg.Testcases.TC_placingOrder_003">
         <methods>
-          <include name="signin"/>
           <include name="setup"/>
+          <include name="placingOrder"/>
           <include name="teardown"/>
         </methods>
-      </class> <!-- com.arbysstg.Testcases.TC_Signin_002 -->
+      </class> <!-- com.arbysstg.Testcases.TC_placingOrder_003 -->
+      <class name="com.arbysstg.Testcases.TC_sigup_001">
+        <methods>
+          <include name="setup"/>
+          <include name="teardown"/>
+          <include name="Signup"/>
+        </methods>
+      </class> <!-- com.arbysstg.Testcases.TC_sigup_001 -->
     </classes>
   </test> <!-- Testcases(failed) -->
 </suite> <!-- Failed suite [Arbys] -->

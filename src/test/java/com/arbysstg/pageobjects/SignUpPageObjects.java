@@ -1,5 +1,8 @@
 package com.arbysstg.pageobjects;
 
+import javax.xml.xpath.XPath;
+
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -16,6 +19,8 @@ public class SignUpPageObjects {
 	}
 	
 	@FindBy(xpath="//h3[contains(@class,'signup')]") WebElement header;
+	
+	
 	
 	@FindBy(css = "input#firstName") WebElement firstName;
 	@FindBy(css="input#lastName") WebElement lastName;

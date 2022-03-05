@@ -63,3 +63,74 @@
 2021-11-19 17:14:31,573 [main] INFO Arbys - entered password
 2021-11-19 17:14:31,760 [main] INFO Arbys - clicked on signin button
 2021-11-19 17:14:38,807 [main] INFO Arbys - Signed in 
+2021-11-22 13:50:40,362 [main] INFO Arbys - Navigated to Home page
+2021-11-22 13:50:40,559 [main] INFO Arbys - clicked on signin button
+2021-11-22 13:50:45,123 [main] INFO Arbys - entered email
+2021-11-22 13:50:45,324 [main] INFO Arbys - entered password
+2021-11-22 13:50:45,478 [main] INFO Arbys - clicked on signin button
+2021-11-22 13:50:50,765 [main] INFO Arbys - Signed in 
+2022-02-02 09:40:49,438 [main] INFO Arbys - Navigated to Home page
+2022-02-02 09:40:53,306 [main] INFO Arbys - clicked on signin button
+2022-02-02 09:40:54,247 [main] INFO Arbys - entered email
+2022-02-02 09:40:54,512 [main] INFO Arbys - entered password
+2022-02-02 09:40:54,769 [main] INFO Arbys - clicked on signin button
+2022-02-02 09:41:00,350 [main] INFO Arbys - Signed in 
+2022-03-05 16:38:47,953 [main] INFO Arbys - Navigated to Home page
+2022-03-05 16:38:51,971 [main] INFO Arbys - clicked on signin button
+2022-03-05 16:38:52,245 [main] INFO Arbys - entered email
+2022-03-05 16:38:52,415 [main] INFO Arbys - entered password
+2022-03-05 16:38:52,602 [main] INFO Arbys - clicked on signin button
+2022-03-05 16:38:59,634 [main] INFO Arbys - Signed in 
+2022-03-05 16:39:10,270 [main] INFO Arbys - launchin url
+2022-03-05 16:39:10,645 [main] INFO Arbys - closing cookies
+2022-03-05 16:39:10,941 [main] INFO Arbys - Selecting start an order button
+2022-03-05 16:39:11,155 [main] INFO Arbys - Entering zipcode
+2022-03-05 16:39:11,437 [main] INFO Arbys - Searchig the zipcode
+2022-03-05 16:39:13,802 [main] INFO Arbys - selecting store
+2022-03-05 16:39:14,792 [main] INFO Arbys - selecting category
+2022-03-05 16:39:16,009 [main] INFO Arbys - selecting item in plp page
+2022-03-05 16:39:16,737 [main] INFO Arbys - clicking on add to bag button on PDP page
+2022-03-05 16:41:18,231 [main] INFO Arbys - Navigated to Home page
+2022-03-05 16:41:20,170 [main] INFO Arbys - clicked on signin button
+2022-03-05 16:41:20,640 [main] INFO Arbys - entered email
+2022-03-05 16:41:20,812 [main] INFO Arbys - entered password
+2022-03-05 16:41:20,995 [main] INFO Arbys - clicked on signin button
+2022-03-05 16:41:25,055 [main] INFO Arbys - Signed in 
+2022-03-05 16:41:35,802 [main] INFO Arbys - launchin url
+2022-03-05 16:41:36,106 [main] INFO Arbys - closing cookies
+2022-03-05 16:41:36,407 [main] INFO Arbys - Selecting start an order button
+2022-03-05 16:41:36,685 [main] INFO Arbys - Entering zipcode
+2022-03-05 16:41:36,933 [main] INFO Arbys - Searchig the zipcode
+2022-03-05 16:41:38,629 [main] INFO Arbys - selecting store
+2022-03-05 16:41:39,409 [main] INFO Arbys - selecting category
+2022-03-05 16:41:40,958 [main] INFO Arbys - selecting item in plp page
+2022-03-05 16:41:41,658 [main] INFO Arbys - clicking on add to bag button on PDP page
+2022-03-05 16:43:12,559 [main] INFO Arbys - launchin url
+2022-03-05 16:43:12,839 [main] INFO Arbys - closing cookies
+2022-03-05 16:43:13,143 [main] INFO Arbys - Selecting start an order button
+2022-03-05 16:43:13,441 [main] INFO Arbys - Entering zipcode
+2022-03-05 16:43:13,741 [main] INFO Arbys - Searchig the zipcode
+2022-03-05 16:43:15,304 [main] INFO Arbys - selecting store
+2022-03-05 16:43:16,200 [main] INFO Arbys - selecting category
+2022-03-05 16:43:17,573 [main] INFO Arbys - selecting item in plp page
+2022-03-05 16:43:18,023 [main] INFO Arbys - clicking on add to bag button on PDP page
+2022-03-05 16:43:18,106 [main] INFO Arbys - validating tooltip
+2022-03-05 16:43:18,580 [main] INFO Arbys - opening bag
+2022-03-05 16:43:18,692 [main] INFO Arbys - checking item price and subtotal
+2022-03-05 16:43:18,810 [main] INFO Arbys - validating total and bag level total prices
+2022-03-05 16:43:19,102 [main] INFO Arbys - clicking on checkout now button
+2022-03-05 16:43:19,103 [main] INFO Arbys - Filling customer info details
+2022-03-05 16:43:20,234 [main] INFO Arbys - Entering customer first name
+2022-03-05 16:43:24,647 [main] INFO Arbys - Entering customer last name
+2022-03-05 16:43:25,106 [main] INFO Arbys - Entering customer phone number
+2022-03-05 16:43:25,533 [main] INFO Arbys - Entering customer email id
+2022-03-05 16:43:26,332 [main] INFO Arbys - Filling card holder details
+2022-03-05 16:43:26,412 [main] INFO Arbys - entering card holders first name
+2022-03-05 16:43:26,600 [main] INFO Arbys - Entering card holders last name
+2022-03-05 16:43:29,912 [main] INFO Arbys - Switching to iframe
+2022-03-05 16:43:29,954 [main] INFO Arbys - Entering card holders card number
+2022-03-05 16:43:32,041 [main] INFO Arbys - Entering expiry date
+2022-03-05 16:43:32,178 [main] INFO Arbys - Entering security code
+2022-03-05 16:43:32,311 [main] INFO Arbys - Entering postal code
+2022-03-05 16:43:32,429 [main] INFO Arbys - Coming out of iframe
+2022-03-05 16:43:32,446 [main] INFO Arbys - check the Terms&Conditions check box
